@@ -1,0 +1,11 @@
+venv*
+.idea
+db.sqlite3
+**/__pycache__
+
+dew_point_analyzer
+hardware_design_version189-51
+plotpy
+plotpy_example
+SerialPort-RealTime-Data-Plotter
+test.py

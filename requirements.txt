@@ -1,0 +1,8 @@
+pyserial>=3.5
+guidata>=3.0.1
+PythonQwt>=0.10
+SciPy>=0.7
+Pillow>=10.0.1
+tifffile>=2023.7.10
+PySide6>=6.2.4
+uuid>=1.30
